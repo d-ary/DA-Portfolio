@@ -1,7 +1,7 @@
 # DA-Portfolio
 Hello, this is my portfolio gathered from RevoU Assignments
 ## Statistics & Spreadsheet Skill Sets:
-- Business Undersatnding
+- Business Understanding
 - Data Cleaning
 - Descriptive Statistics
 - Exploratory Data Analysis
@@ -11,7 +11,7 @@ Hello, this is my portfolio gathered from RevoU Assignments
 
 File:
 
-[Business Undersatnding, Data Cleaning, Descriptive Statistics](https://docs.google.com/spreadsheets/d/1zCF1_Du0-OIwIZXCVQlcbTd7GkealbZ4A1tIHkQ6bZU/edit?usp=share_link)
+[Business Understanding, Data Cleaning, Descriptive Statistics](https://docs.google.com/spreadsheets/d/1zCF1_Du0-OIwIZXCVQlcbTd7GkealbZ4A1tIHkQ6bZU/edit?usp=share_link)
 
 [Exploratory Data Analysis, Correlation, Regression, Hypothesis Testing](https://docs.google.com/spreadsheets/d/1-fOb_Yf2EG9M5I5bV8RlDA2J8e_-s_OVpfooOrla3ag/edit?usp=share_link)
 
