@@ -53,3 +53,7 @@ Deck:
 
 ## Project Based Analytics
 [Internet Service Provider Customer Churn Analysis](https://drive.google.com/file/d/1XsrB28Ij3Qwv2Fj_ysxXhEnnpm6xl74K/view?usp=share_link)
+
+[Seller Analysis for Better Service](https://drive.google.com/file/d/1VnicidkF2e3eNXisD8vXdwyQiITxjWay/view?usp=sharing)
+
+[Customer Churn Analysis in E-Commerce Company](https://drive.google.com/file/d/1cmOIqrV4Dj7q7yXbiNDdJ6Jgsv0jf5IE/view?usp=sharing)
